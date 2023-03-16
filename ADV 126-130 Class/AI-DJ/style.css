@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 22.5px;
+    width: 100%;
+    margin: 0px;
+    color: bisque;
+}
+.note{
+    font-size: 15px;
+    color: bisque;
+}
+.divSpeed{float: left;}
+.divVol{float: right;}
+.divImg{
+    width: 275px;
+    margin: 15px
+}
+.measure{
+    font-size: 22.5px;
+    margin: 25px;
+}
+#audioBtn{
+    font-size: 25px;
+}
+canvas{
+    border: 5px solid navy;
+    border-radius: 20px;
+}
